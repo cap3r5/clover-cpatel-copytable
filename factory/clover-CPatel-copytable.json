@@ -1,0 +1,9 @@
+{
+	"name": "clover-CPatel-copytable",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1c82dd99-6654-4993-a7f2-7337e9f03525",
+		"tenantId": "b4a2e5de-a06c-4c53-bf18-7f9c4afb9859"
+	}
+}
